@@ -1,0 +1,128 @@
+[
+    {
+      "Municipio": "Bagé",
+      "UF": "RS",
+      "Codigo": "83980",
+      "Data_Medicao": "2023-06-19",
+      "Longitude": -53.45694444,
+      "Latitude": -31.33111111,
+      "Temperatura_Minima": 1.1
+    },
+    {
+      "Municipio": "Bagé",
+      "UF": "RS",
+      "Codigo": "83980",
+      "Data_Medicao": "2023-06-18",
+      "Longitude": -53.45694444,
+      "Latitude": -31.33111111,
+      "Temperatura_Minima": 1.8
+    },
+    {
+      "Municipio": "Bagé",
+      "UF": "RS",
+      "Codigo": "83980",
+      "Data_Medicao": "2023-06-14",
+      "Longitude": -53.45694444,
+      "Latitude": -31.33111111,
+      "Temperatura_Minima": 2.3
+    },
+    {
+      "Municipio": "Bagé",
+      "UF": "RS",
+      "Codigo": "83980",
+      "Data_Medicao": "2023-06-13",
+      "Longitude": -53.45694444,
+      "Latitude": -31.33111111,
+      "Temperatura_Minima": -0.8
+    },
+    {
+      "Municipio": "Bagé",
+      "UF": "RS",
+      "Codigo": "83980",
+      "Data_Medicao": "2023-06-12",
+      "Longitude": -53.45694444,
+      "Latitude": -31.33111111,
+      "Temperatura_Minima": 0.6
+    },
+    {
+      "Municipio": "Bagé",
+      "UF": "RS",
+      "Codigo": "83980",
+      "Data_Medicao": "2023-05-29",
+      "Longitude": -53.45694444,
+      "Latitude": -31.33111111,
+      "Temperatura_Minima": 2.6
+    },
+    {
+      "Municipio": "Bom Jesus",
+      "UF": "RS",
+      "Codigo": "83919",
+      "Data_Medicao": "2023-06-13",
+      "Longitude": -50.42972222,
+      "Latitude": -28.80416666,
+      "Temperatura_Minima": -5.4
+    },
+    {
+      "Municipio": "Bom Jesus",
+      "UF": "RS",
+      "Codigo": "83919",
+      "Data_Medicao": "2023-06-01",
+      "Longitude": -50.42972222,
+      "Latitude": -28.80416666,
+      "Temperatura_Minima": -7.0
+    },
+    {
+      "Municipio": "Caxias do Sul",
+      "UF": "RS",
+      "Codigo": "83942",
+      "Data_Medicao": "2023-06-19",
+      "Longitude": -51.17916666,
+      "Latitude": -29.16222222,
+      "Temperatura_Minima": 4.2
+    },
+    {
+      "Municipio": "Caxias do Sul",
+      "UF": "RS",
+      "Codigo": "83942",
+      "Data_Medicao": "2023-06-13",
+      "Longitude": -51.17916666,
+      "Latitude": -29.16222222,
+      "Temperatura_Minima": 1.2
+    },
+    {
+      "Municipio": "Irati",
+      "UF": "PR",
+      "Codigo": "83836",
+      "Data_Medicao": "2023-06-18",
+      "Longitude": -50.66833333,
+      "Latitude": -25.46027777,
+      "Temperatura_Minima": -2.1
+    },
+    {
+      "Municipio": "Passo Fundo",
+      "UF": "RS",
+      "Codigo": "83914",
+      "Data_Medicao": "2023-06-12",
+      "Longitude": -52.3925,
+      "Latitude": -28.25027777,
+      "Temperatura_Minima": -5.5
+    },
+    {
+      "Municipio": "Santa Maria",
+      "UF": "RS",
+      "Codigo": "83936",
+      "Data_Medicao": "2023-06-13",
+      "Longitude": -53.80666666,
+      "Latitude": -29.68666666,
+      "Temperatura_Minima": 1.0
+    },
+    {
+      "Municipio": "Santa Maria",
+      "UF": "RS",
+      "Codigo": "83936",
+      "Data_Medicao": "2023-06-12",
+      "Longitude": -53.80666666,
+      "Latitude": -29.68666666,
+      "Temperatura_Minima": -4.8
+    }
+  ]  

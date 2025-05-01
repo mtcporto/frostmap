@@ -1,0 +1,372 @@
+[
+  {
+    "UF": "RS",
+    "DT_MEDICAO": "2023-05-29",
+    "CODIGO": "A827",
+    "LONGITUDE": -54.01333333,
+    "NOME": "BAGÉ",
+    "LATITUDE": -31.34777777,
+    "TEMP_MIN": 2.2,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-11",
+    "CODIGO": "A845",
+    "LONGITUDE": -49.47972221,
+    "NOME": "BOM JARDIM DA SERRA - MORRO DA IGREJA",
+    "LATITUDE": -28.12694443,
+    "TEMP_MIN": 2.6,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-13",
+    "CODIGO": "A845",
+    "LONGITUDE": -49.47972221,
+    "NOME": "BOM JARDIM DA SERRA - MORRO DA IGREJA",
+    "LATITUDE": -28.12694443,
+    "TEMP_MIN": 3,
+    "INTENSIDADE": "Fraca"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-12",
+    "CODIGO": "A845",
+    "LONGITUDE": -49.47972221,
+    "NOME": "BOM JARDIM DA SERRA - MORRO DA IGREJA",
+    "LATITUDE": -28.12694443,
+    "TEMP_MIN": 2.5,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "MG",
+    "DT_MEDICAO": "2023-05-21",
+    "CODIGO": "A530",
+    "LONGITUDE": -46.382996,
+    "NOME": "CALDAS",
+    "LATITUDE": -21.918066,
+    "TEMP_MIN": 2.9,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "MG",
+    "DT_MEDICAO": "2023-05-18",
+    "CODIGO": "A530",
+    "LONGITUDE": -46.382996,
+    "NOME": "CALDAS",
+    "LATITUDE": -21.918066,
+    "TEMP_MIN": 2.1,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "MG",
+    "DT_MEDICAO": "2023-05-17",
+    "CODIGO": "A530",
+    "LONGITUDE": -46.382996,
+    "NOME": "CALDAS",
+    "LATITUDE": -21.918066,
+    "TEMP_MIN": 1.1,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "MG",
+    "DT_MEDICAO": "2023-05-20",
+    "CODIGO": "A530",
+    "LONGITUDE": -46.382996,
+    "NOME": "CALDAS",
+    "LATITUDE": -21.918066,
+    "TEMP_MIN": 2.6,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "MG",
+    "DT_MEDICAO": "2023-05-16",
+    "CODIGO": "A530",
+    "LONGITUDE": -46.382996,
+    "NOME": "CALDAS",
+    "LATITUDE": -21.918066,
+    "TEMP_MIN": 1.6,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SP",
+    "DT_MEDICAO": "2023-05-18",
+    "CODIGO": "A706",
+    "LONGITUDE": -45.60388888,
+    "NOME": "CAMPOS DO JORDÃO",
+    "LATITUDE": -22.75027777,
+    "TEMP_MIN": 2.1,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SP",
+    "DT_MEDICAO": "2023-05-20",
+    "CODIGO": "A706",
+    "LONGITUDE": -45.60388888,
+    "NOME": "CAMPOS DO JORDÃO",
+    "LATITUDE": -22.75027777,
+    "TEMP_MIN": 0.7,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SP",
+    "DT_MEDICAO": "2023-05-16",
+    "CODIGO": "A706",
+    "LONGITUDE": -45.60388888,
+    "NOME": "CAMPOS DO JORDÃO",
+    "LATITUDE": -22.75027777,
+    "TEMP_MIN": 2,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-15",
+    "CODIGO": "A859",
+    "LONGITUDE": -50.98552,
+    "NOME": "CAÇADOR",
+    "LATITUDE": -26.819156,
+    "TEMP_MIN": 1.9,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-14",
+    "CODIGO": "A859",
+    "LONGITUDE": -50.98552,
+    "NOME": "CAÇADOR",
+    "LATITUDE": -26.819156,
+    "TEMP_MIN": 2.3,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-12",
+    "CODIGO": "A859",
+    "LONGITUDE": -50.98552,
+    "NOME": "CAÇADOR",
+    "LATITUDE": -26.819156,
+    "TEMP_MIN": 1.4,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-11",
+    "CODIGO": "A859",
+    "LONGITUDE": -50.98552,
+    "NOME": "CAÇADOR",
+    "LATITUDE": -26.819156,
+    "TEMP_MIN": 0.9,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-20",
+    "CODIGO": "A859",
+    "LONGITUDE": -50.98552,
+    "NOME": "CAÇADOR",
+    "LATITUDE": -26.819156,
+    "TEMP_MIN": 3,
+    "INTENSIDADE": "Fraca"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-16",
+    "CODIGO": "A859",
+    "LONGITUDE": -50.98552,
+    "NOME": "CAÇADOR",
+    "LATITUDE": -26.819156,
+    "TEMP_MIN": 2.1,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-12",
+    "CODIGO": "A860",
+    "LONGITUDE": -50.60416666,
+    "NOME": "CURITIBANOS",
+    "LATITUDE": -27.2886111,
+    "TEMP_MIN": 0.5,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "PR",
+    "DT_MEDICAO": "2023-05-13",
+    "CODIGO": "A875",
+    "LONGITUDE": -51.35361111,
+    "NOME": "GENERAL CARNEIRO",
+    "LATITUDE": -26.3986111,
+    "TEMP_MIN": 1.6,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "PR",
+    "DT_MEDICAO": "2023-05-18",
+    "CODIGO": "A875",
+    "LONGITUDE": -51.35361111,
+    "NOME": "GENERAL CARNEIRO",
+    "LATITUDE": -26.3986111,
+    "TEMP_MIN": 1.6,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "PR",
+    "DT_MEDICAO": "2023-05-17",
+    "CODIGO": "A875",
+    "LONGITUDE": -51.35361111,
+    "NOME": "GENERAL CARNEIRO",
+    "LATITUDE": -26.3986111,
+    "TEMP_MIN": 1.4,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "PR",
+    "DT_MEDICAO": "2023-05-12",
+    "CODIGO": "A875",
+    "LONGITUDE": -51.35361111,
+    "NOME": "GENERAL CARNEIRO",
+    "LATITUDE": -26.3986111,
+    "TEMP_MIN": 0,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "PR",
+    "DT_MEDICAO": "2023-05-20",
+    "CODIGO": "A875",
+    "LONGITUDE": -51.35361111,
+    "NOME": "GENERAL CARNEIRO",
+    "LATITUDE": -26.3986111,
+    "TEMP_MIN": -1,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "PR",
+    "DT_MEDICAO": "2023-05-16",
+    "CODIGO": "A875",
+    "LONGITUDE": -51.35361111,
+    "NOME": "GENERAL CARNEIRO",
+    "LATITUDE": -26.3986111,
+    "TEMP_MIN": -1.8,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "PR",
+    "DT_MEDICAO": "2023-05-11",
+    "CODIGO": "A875",
+    "LONGITUDE": -51.35361111,
+    "NOME": "GENERAL CARNEIRO",
+    "LATITUDE": -26.3986111,
+    "TEMP_MIN": 0.3,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "PR",
+    "DT_MEDICAO": "2023-05-15",
+    "CODIGO": "A875",
+    "LONGITUDE": -51.35361111,
+    "NOME": "GENERAL CARNEIRO",
+    "LATITUDE": -26.3986111,
+    "TEMP_MIN": 0.9,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-17",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 0.6,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-12",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 0.7,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-13",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 0.8,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-11",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 1,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-14",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 0.5,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-15",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 0.6,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-16",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 0.7,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-20",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 0.2,
+    "INTENSIDADE": "Moderada"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-19",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 0.5,
+    "INTENSIDADE": "Forte"
+  },
+  {
+    "UF": "SC",
+    "DT_MEDICAO": "2023-05-18",
+    "CODIGO": "A853",
+    "LONGITUDE": -49.015,
+    "NOME": "IRANI",
+    "LATITUDE": -27.02833333,
+    "TEMP_MIN": 0.5,
+    "INTENSIDADE": "Forte"
+  }
+]

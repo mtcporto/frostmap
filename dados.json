@@ -1,0 +1,387 @@
+[
+    {
+      "Municipio": "Alegrete",
+      "UF": "RS",
+      "lat": "-29.7902",
+      "long": "-55.7949"
+    },
+    {
+      "Municipio": "Bagé",
+      "UF": "RS",
+      "lat": "-31.3295",
+      "long": "-54.1066"
+    },
+    {
+      "Municipio": "Bento Gonçalves",
+      "UF": "RS",
+      "lat": "-29.1662",
+      "long": "-51.5169"
+    },
+    {
+      "Municipio": "Bom Jardim da Serra - Morro da Igreja",
+      "UF": "SC",
+      "lat": "-28.3373",
+      "long": "-49.6079"
+    },
+    {
+      "Municipio": "Caldas",
+      "UF": "MG",
+      "lat": "-21.9193",
+      "long": "-46.3854"
+    },
+    {
+      "Municipio": "Camaquã",
+      "UF": "RS",
+      "lat": "-30.8481",
+      "long": "-51.8047"
+    },
+    {
+      "Municipio": "Cambará do Sul",
+      "UF": "RS",
+      "lat": "-29.0477",
+      "long": "-50.1464"
+    },
+    {
+      "Municipio": "Campo Bom",
+      "UF": "RS",
+      "lat": "-29.6747",
+      "long": "-51.0606"
+    },
+    {
+      "Municipio": "Campos do Jordão",
+      "UF": "SP",
+      "lat": "-22.7381",
+      "long": "-45.5923"
+    },
+    {
+      "Municipio": "Campos Novos",
+      "UF": "SC",
+      "lat": "-27.4007",
+      "long": "-51.2277"
+    },
+    {
+      "Municipio": "Canela",
+      "UF": "RS",
+      "lat": "-29.3563",
+      "long": "-50.8117"
+    },
+    {
+      "Municipio": "Canguçu",
+      "UF": "RS",
+      "lat": "-31.3966",
+      "long": "-52.6787"
+    },
+    {
+      "Municipio": "Capão do Leão (Pelotas)",
+      "UF": "RS",
+      "lat": "-31.7533",
+      "long": "-52.4882"
+    },
+    {
+      "Municipio": "Caçador",
+      "UF": "SC",
+      "lat": "-26.7757",
+      "long": "-51.0144"
+    },
+    {
+      "Municipio": "Caçapava do Sul",
+      "UF": "RS",
+      "lat": "-30.5133",
+      "long": "-53.4824"
+    },
+    {
+      "Municipio": "Clevelandia",
+      "UF": "PR",
+      "lat": "-26.3946",
+      "long": "-52.3504"
+    },
+    {
+      "Municipio": "Colombo",
+      "UF": "PR",
+      "lat": "-25.2925",
+      "long": "-49.2262"
+    },
+    {
+      "Municipio": "Cruz Alta",
+      "UF": "RS",
+      "lat": "-28.6382",
+      "long": "-53.6044"
+    },
+    {
+      "Municipio": "Curitibanos",
+      "UF": "SC",
+      "lat": "-27.2827",
+      "long": "-50.5819"
+    },
+    {
+      "Municipio": "Dom Pedrito",
+      "UF": "RS",
+      "lat": "-30.9756",
+      "long": "-54.6699"
+    },
+    {
+      "Municipio": "Encruzilhada do Sul",
+      "UF": "RS",
+      "lat": "-30.543",
+      "long": "-52.5206"
+    },
+    {
+      "Municipio": "General Carneiro",
+      "UF": "PR",
+      "lat": "-26.4256",
+      "long": "-51.3172"
+    },
+    {
+      "Municipio": "Ibiruba",
+      "UF": "RS",
+      "lat": "-28.6303",
+      "long": "-53.0965"
+    },
+    {
+      "Municipio": "Ituporanga",
+      "UF": "SC",
+      "lat": "-27.4097",
+      "long": "-49.6022"
+    },
+    {
+      "Municipio": "Jaguarão",
+      "UF": "RS",
+      "lat": "-32.5604",
+      "long": "-53.3733"
+    },
+    {
+      "Municipio": "Joaçaba",
+      "UF": "SC",
+      "lat": "-27.1721",
+      "long": "-51.5005"
+    },
+    {
+      "Municipio": "Lagoa Vermelha",
+      "UF": "RS",
+      "lat": "-28.2077",
+      "long": "-51.5239"
+    },
+    {
+      "Municipio": "Laranjeiras do Sul",
+      "UF": "PR",
+      "lat": "-25.4077",
+      "long": "-52.4107"
+    },
+    {
+      "Municipio": "Major Vieira",
+      "UF": "SC",
+      "lat": "-26.3703",
+      "long": "-50.3261"
+    },
+    {
+      "Municipio": "Maracaju",
+      "UF": "MS",
+      "lat": "-21.6101",
+      "long": "-55.1674"
+    },
+    {
+      "Municipio": "Maria da Fé",
+      "UF": "MG",
+      "lat": "-22.3042",
+      "long": "-45.3777"
+    },
+    {
+      "Municipio": "Monte Verde",
+      "UF": "MG",
+      "lat": "-22.8543",
+      "long": "-46.0256"
+    },
+    {
+      "Municipio": "Nova Friburgo - Salinas",
+      "UF": "RJ",
+      "lat": "-22.2832",
+      "long": "-42.5314"
+    },
+    {
+      "Municipio": "Palmeira das Missões",
+      "UF": "RS",
+      "lat": "-27.9008",
+      "long": "-53.3131"
+    },
+    {
+      "Municipio": "Passo Fundo",
+      "UF": "RS",
+      "lat": "-28.2628",
+      "long": "-52.4065"
+    },
+    {
+      "Municipio": "Pato Branco",
+      "UF": "PR",
+      "lat": "-26.2292",
+      "long": "-52.6706"
+    },
+    {
+      "Municipio": "Ponta Grossa - Carambeí",
+      "UF": "PR",
+      "lat": "-25.0916",
+      "long": "-50.166"
+    },
+    {
+      "Municipio": "Porto Nacional",
+      "UF": "TO",
+      "lat": "-10.7052",
+      "long": "-48.4082"
+    },
+    {
+      "Municipio": "Praia Grande",
+      "UF": "SC",
+      "lat": "-29.1919",
+      "long": "-49.9521"
+    },
+    {
+      "Municipio": "Quaraí",
+      "UF": "RS",
+      "lat": "-30.3846",
+      "long": "-56.4483"
+    },
+    {
+      "Municipio": "Santo Antônio da Patrulha",
+      "UF": "RS",
+      "lat": "-29.8264",
+      "long": "-50.5172"
+    },
+    {
+      "Municipio": "Santo Antônio das Missões",
+      "UF": "RS",
+      "lat": "-28.5147",
+      "long": "-55.2251"
+    },
+    {
+      "Municipio": "Santo Cristo",
+      "UF": "RS",
+      "lat": "-27.8267",
+      "long": "-54.6628"
+    },
+    {
+      "Municipio": "São Borja",
+      "UF": "RS",
+      "lat": "-28.6578",
+      "long": "-56.0036"
+    },
+    {
+      "Municipio": "São Francisco de Paula",
+      "UF": "RS",
+      "lat": "-29.4394",
+      "long": "-50.5823"
+    },
+    {
+      "Municipio": "São Gabriel",
+      "UF": "RS",
+      "lat": "-30.3329",
+      "long": "-54.3214"
+    },
+    {
+      "Municipio": "São João do Polêsine",
+      "UF": "RS",
+      "lat": "-29.6192",
+      "long": "-53.4431"
+    },
+    {
+      "Municipio": "São José dos Ausentes",
+      "UF": "RS",
+      "lat": "-28.7476",
+      "long": "-50.067"
+    },
+    {
+      "Municipio": "São Luiz Gonzaga",
+      "UF": "RS",
+      "lat": "-28.4089",
+      "long": "-54.9552"
+    },
+    {
+      "Municipio": "São Luiz Gonzaga - Fazenda Boa Vista",
+      "UF": "RS",
+      "lat": "-28.6129",
+      "long": "-55.0713"
+    },
+    {
+      "Municipio": "São Marcos",
+      "UF": "RS",
+      "lat": "-28.9678",
+      "long": "-51.069"
+    },
+    {
+      "Municipio": "São Miguel das Missões",
+      "UF": "RS",
+      "lat": "-28.5566",
+      "long": "-54.557"
+    },
+    {
+      "Municipio": "São Miguel do Oeste",
+      "UF": "SC",
+      "lat": "-26.7257",
+      "long": "-53.5162"
+    },
+    {
+      "Municipio": "São Nicolau",
+      "UF": "RS",
+      "lat": "-28.1836",
+      "long": "-55.2659"
+    },
+    {
+      "Municipio": "São Paulo das Missões",
+      "UF": "RS",
+      "lat": "-28.0197",
+      "long": "-54.9402"
+    },
+    {
+      "Municipio": "São Sebastião do Caí",
+      "UF": "RS",
+      "lat": "-29.5916",
+      "long": "-51.3747"
+    },
+    {
+      "Municipio": "São Sepé",
+      "UF": "RS",
+      "lat": "-30.164",
+      "long": "-53.5603"
+    },
+    {
+      "Municipio": "São Vicente do Sul",
+      "UF": "RS",
+      "lat": "-29.6884",
+      "long": "-54.6821"
+    },
+    {
+      "Municipio": "Taquara",
+      "UF": "RS",
+      "lat": "-29.6486",
+      "long": "-50.775"
+    },
+    {
+      "Municipio": "Tenente Portela",
+      "UF": "RS",
+      "lat": "-27.3711",
+      "long": "-53.7584"
+    },
+    {
+      "Municipio": "Três Passos",
+      "UF": "RS",
+      "lat": "-27.4551",
+      "long": "-53.9294"
+    },
+    {
+      "Municipio": "Tupanciretã",
+      "UF": "RS",
+      "lat": "-29.0859",
+      "long": "-53.843"
+    },
+    {
+      "Municipio": "Vacaria",
+      "UF": "RS",
+      "lat": "-28.5079",
+      "long": "-50.9414"
+    },
+    {
+      "Municipio": "Xangri-lá",
+      "UF": "RS",
+      "lat": "-29.8066",
+      "long": "-50.0511"
+    }
+  ]
+  

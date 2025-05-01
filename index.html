@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br"> 
+<head>
+	<title>Frostmap</title>
+	<meta charset="utf-8" />
+  <link rel="stylesheet" href="./styles.css" />
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  
+	<!-- Adiciona wicket (via CDN) -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/wicket/1.3.5/wicket.js" crossorigin=""></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/wicket/1.3.5/wicket-leaflet.js" crossorigin=""></script>
+
+	<!-- Adiciona axios (via CDN) -->
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+  <link
+  href="https://cdn.jsdelivr.net/npm/tailwindcss@2/dist/tailwind.min.css"
+  rel="stylesheet"
+/>
+
+</head>
+<body>
+  <header class="bg-gray-900 text-white py-4">
+    <div class="container mx-auto text-center">
+        <h1 class="text-3xl font-bold">Frostmap</h1>
+    </div>
+  </header>
+  
+    <div class="container mx-auto p-4">
+      <div class="flex items-start">
+        <div id="map" class="w-1/2"></div>
+        <div class="w-1/2 pl-4">
+          <h1 class="text-4xl font-bold mb-4">Frostmap</h1>
+          <p>O mapa ao lado mostra a ocorrência de geadas no Brasil. A classificação das geadas é feita de acordo com a temperatura, sendo dividida em três categorias: geada forte, moderada e fraca. A geada forte ocorre quando a temperatura está abaixo de -5°C. A geada moderada ocorre quando a temperatura está entre -5°C e 0°C. Já a geada fraca ocorre quando a temperatura está acima de 0°C. Essa classificação ajuda a entender a intensidade do fenômeno e seus possíveis impactos na agricultura e no meio ambiente.</p>
+          <ul class="list-disc pl-8 mt-4">
+            <li>Geada forte (temperatura abaixo de -5 °C)</li>
+            <li>Geada moderada (temperatura entre -5 °C e 0 °C)</li>
+            <li>Geada fraca (temperatura acima de 0 °C)</li>
+          </ul>
+        </div>
+      </div>
+      <h3 class="text-2xl font-semibold mb-2 mt-4">Feito:</h3>
+      <ul class="list-disc list-inside mb-4">
+        <li>Plotando os ícones</li>
+        <li>BindPopup</li>
+        <li>Tooltip</li>
+        <li>Legenda</li>
+        <li>Consultando da API</li>
+        <li>Intensidade (Popup)</li>
+        <li>Intensidade (cores dos ícones) de acordo com os retornos de calculaIntensidade</li>
+      </ul>
+      
+      <h3 class="text-2xl font-semibold mb-2">Falta:</h3>
+      <ul class="list-disc list-inside">
+        <li>Várias ocorrências por cidade</li>
+        <li>Filtros</li>
+      </ul>
+    </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>
